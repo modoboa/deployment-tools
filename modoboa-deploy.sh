@@ -7,7 +7,7 @@
 DATE=$(date +%Y-%m-%d-%H%M)
 
 source modoboa-deploy.ini
-source modoboa-restart.ini
+source modoboa-restart.sh
 
 VERSION=$2
 
